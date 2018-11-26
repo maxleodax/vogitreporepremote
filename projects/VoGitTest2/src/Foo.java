@@ -1,1 +1,3 @@
-Fooo
+public class Foo {
+//  Fooo
+}
